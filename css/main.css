@@ -22,22 +22,26 @@
   .rounded-lg-3 { border-radius: .3rem; }
 }
 
-img {
-    max-width: 100%;
+img{
+	max-width: 100%;
 }
-.gallery {
-   background-color: #dbddf1; 
-   padding: 80px 0;
+.gallery{
+	background-color: lightgray;
+	padding: 80px 0;
 }
 
+.gallery h1{
+    text-align: center;
+    padding-bottom: 30px;
+    color:cornflowerblue;
+}
 .gallery img{
-    background-color: #ffffff;
-    padding: 15px;
-    width: 100%;
-    box-shadow: 0 0 15px rgba(0,0,0,0.3);
-    cursor: pointer;
+	background-color: darkblue;
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0 0 15px rgba(0,0,0,0.3);
+	cursor: pointer;
 }
-
 #gallery-modal .modal-img{
-    width: 100%;
+	width: 100%;
 }
