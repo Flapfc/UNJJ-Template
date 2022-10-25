@@ -45,3 +45,8 @@ img{
 #gallery-modal .modal-img{
 	width: 100%;
 }
+
+.congress-list li{
+    list-style: none;
+    text-decoration: none;
+}
